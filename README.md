@@ -10,6 +10,6 @@ Open data sourced from Opportunity Insights' [Opportunity Atlas](https://opportu
 1. **baltimore_sf_teenbirth_kathytien.ipynb**: a Google Colaboratory notebook with analysis of Baltimore and San Francisco data. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GX7iNPCCsjkClFRIeE0Mq4gzh6z7852N?usp=sharing)
 ## Data Answer 
 To isolate health disparities due to race, we eliminated differences due to geographic location and socioeconomic status by comparing teenage birth rates of low-income populations residing in the same neighborhoods. 
-![Alt text](px-bargraph.png) 
+![Alt text](px_bargraph.png) 
 
 ## Comparing Python and Excel 
