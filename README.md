@@ -13,3 +13,4 @@ To isolate health disparities due to race, we eliminated differences due to geog
 ![Alt text](px_bargraph.png) 
 Mirorring the results produced by Excel, both average White and Black teen birth rates are higher for Baltimore than that of San Francisco. This difference may be attributed to Baltimore's lower government funding of health services, a higher poverty rate, and an overall lower percentage of the population insured. In both cities, the average White birth rate is more than twice the average Black birth rate. These results show that even when we compare within the same income level, racial and socio-ecological disparities contribute to the substantially higher teen birth rates in Black populations.
 ## Comparing Python and Excel 
+Though there were clear differences in the process of data organization for Python and Excel, the final visualization produced very similar results.  
