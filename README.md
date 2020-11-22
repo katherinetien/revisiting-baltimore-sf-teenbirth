@@ -9,7 +9,7 @@ Open data sourced from Opportunity Insights' [Opportunity Atlas](https://opportu
 1. San Francisco, CA: raw dataset containing teenage birth rates for [White](balt-teenbirth-w1.csv) and [Black](balt-teenbirth-b.csv) populations with low-income parents, categorized by neighborhood in San Francisco. 
 1. **baltimore_sf_teenbirth_kathytien.ipynb**: a Google Colaboratory notebook with analysis of Baltimore and San Francisco data. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GX7iNPCCsjkClFRIeE0Mq4gzh6z7852N?usp=sharing)
 ## Data Answer 
-To isolate health disparities due to race, we eliminated differences due to geographic location and socioeconomic status by comparing teenage birth rates of low-income populations residing in the same neighborhoods. 
+To isolate health disparities due to race, we eliminated differences due to geographic location and socioeconomic status by comparing teenage birth rates of low-income populations residing in the same neighborhoods for both cities. We merged datasets within Google Colaboratory, and teenage birth rates of White and Black populations in Baltimore and San Francisco were averaged and compared. 
 ![Alt text](px_bargraph.png) 
-
+As the graph depicts, both average White and Black teen birth rates are higher for Baltimore than that of San Francisco. In both cities, the average White birth rate is more than twice the average Black birth rate. These results show that even when we compare within the same income level, racial and socio-ecological disparities contribute to the substantially higher teen birth rates in Black populations. The data analysis corroborates the correlation of teen birth with health disparities related to race. 
 ## Comparing Python and Excel 
